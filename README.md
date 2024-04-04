@@ -1,2 +1,2 @@
 Pomodoro timer module with abstract design. 
-https://kingap047.github.io/PomodoroTimer/
+https://abhishekpratap047.github.io/PomodoroTimer/
